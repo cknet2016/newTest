@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'cknet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF4E9B5B7503491DBEF39793C4FC6BA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6A745E7F93164BE1A3DE720BBCDCF3B8 }}
           package: .
